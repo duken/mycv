@@ -4,12 +4,12 @@ from utils.data_cv import BIODATA, RINGKASAN, PENDIDIKAN, PENGALAMAN_KERJA, PENG
 
 st.set_page_config(
     page_title=f"CV Digital {BIODATA['Nama']}",
-    page_icon=":Portofolio 4:",
+    page_icon=":man_technologist:",
     layout="wide"
 )
 
 # --- HEADER: Foto dan Biodata ---
-st.title(f"Curriculum Vitae {BIODATA['Nama']} :man_technologist:")
+st.title(f"Curriculum Vitae {BIODATA['Nama']} :Portofolio 4:")
 col1, col2 = st.columns([1, 2])
 
 with col1:
