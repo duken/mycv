@@ -4,7 +4,7 @@ from utils.data_cv import BIODATA, RINGKASAN, PENDIDIKAN, PENGALAMAN_KERJA, PENG
 
 st.set_page_config(
     page_title=f"CV Digital {BIODATA['Nama']}",
-    page_icon=":man_technologist:",
+    page_icon=":Portofolio 4:",
     layout="wide"
 )
 
