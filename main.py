@@ -57,4 +57,4 @@ for pub in PUBLIKASI:
 
 # --- Footer ---
 st.markdown("---")
-st.markdown("<center>CV Digital dibuat menggunakan Streamlit</center>", unsafe_allow_html=True)
+st.markdown("<center>© 2025 CV Digital Streamlit</center>", unsafe_allow_html=True)
