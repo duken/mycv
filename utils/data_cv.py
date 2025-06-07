@@ -15,9 +15,10 @@ RINGKASAN = (
 )
 
 PENDIDIKAN = [
-    {"Tahun": "1991-1994", "Institusi": "SMPN Telaga Gorontalo", "Jurusan": "-"},
-    {"Tahun": "1994-1997", "Institusi": "SMAN 3 Gorontalo", "Jurusan": "-"},
-    {"Tahun": "1998-2001", "Institusi": "Polytechnic Of Semarang", "Jurusan": "Teknik Telekominikasi"},
+    {"Tahun": "1985-1991", "Institusi": "SD Negeri 3 Pantungo", "Jurusan": "-"},
+    {"Tahun": "1991-1994", "Institusi": "SMP Negeri Telaga", "Jurusan": "-"},
+    {"Tahun": "1994-1997", "Institusi": "SMA Negeri 3 Gorontalo", "Jurusan": "-"},
+    {"Tahun": "1998-2001", "Institusi": "Politeknik Negeri Semarang", "Jurusan": "Teknik Telekomunikasi"},
     {"Tahun": "2008-2010", "Institusi": "Universitas Ichsan Gorontalo", "Jurusan": "Teknik Elektro"}
 ]
 
@@ -30,7 +31,7 @@ PENGALAMAN_KERJA = [
      "Deskripsi": "Configure, install, maintenance Linux Server, proxy, mail, web, wireless router, billing, firewall, etc."},
     {"Tahun": "Feb 2007 – Des 2007", "Posisi": "System Administrator", "Perusahaan": "ISP iNterNUX Gorontalo",
      "Deskripsi": "Configure, install, maintenance Linux Server, proxy, mail, web, wireless router, billing, mikrotik, VPN, firewall, etc."},
-    {"Tahun": "Jan 2008 – Now", "Posisi": "PNS", "Perusahaan": "Pemerintah Kabupaten Gorontalo Utara",
+    {"Tahun": "Jan 2008 – Sekarang", "Posisi": "PNS", "Perusahaan": "Pemerintah Daerah Kabupaten Gorontalo Utara",
      "Deskripsi": ""}
 ]
 
